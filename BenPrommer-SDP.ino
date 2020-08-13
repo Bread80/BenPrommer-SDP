@@ -2,6 +2,8 @@
  * Code for an EEPROM programmer based on Ben Eater's breadboard design
  * !!!with a few changes!!!
  * 
+ * More details in my article at http://bread80.com/?p=222
+ * 
  * Based on original code by Ben Eater
  * 
  * Modifications by Mike Sutton - Bread80.com

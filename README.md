@@ -1,6 +1,8 @@
 Enhanced Software for the Ben Eater Breadboard EEPROM Programmer
 ================================================================
 
+More details in my article at http://bread80.com/?p=222
+
 Code for an EEPROM programmer based on Ben Eater's breadboard design !!!with a few changes!!!
 
 * Also includes code to deal with Software Data Protection (SDP) on, e.g. the 28C256 - either to disable, enable, or program while enabled.
@@ -22,6 +24,7 @@ And also some 0.1uF decoupling capacitors - the code is /very/ unreliable withou
 Based on original code by Ben Eater
 
 Modifications by Mike Sutton - Bread80.com
+
 
 
 
